@@ -5,22 +5,23 @@ margin: 0%;
 }
 h1{
     font-size: 50px;
-   
 }
-
 .orange-collor{
     color: #f87204;
 }
-section{
+.section{
    display: flex; 
+   justify-content: center;
+   align-items: center;
+   margin-bottom: 20px;
+   margin-left: 90px;
 }
 .half-width{
+    margin: 50px;
     width: 50%;
-    padding-left:2%;
-
-}
+    }
 .half-width img{
-   width: 80%; 
+    width: 500px;
 }
 .link-button{
     text-decoration: none;
@@ -31,7 +32,22 @@ section{
     border-radius: 5px;
     
 }
+.sumarry{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    font-weight: 800%;
+    color: rgb(68, 0, 255);
+
+}
 .top-banner{
     background-image: url(Newr/images.jpg);
     background-repeat: no-repeat;
+    background-size: 50%;
+}
+.sumarry2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-weight: 800%;
+    color: rgb(179, 255, 0);
+
 }
