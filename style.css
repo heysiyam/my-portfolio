@@ -1,6 +1,7 @@
 body{
     font-family: 'Island Moments', cursive;
 font-family: 'Roboto Mono', monospace;
+margin: 0%;
 }
 h1{
     font-size: 50px;
@@ -15,7 +16,7 @@ section{
 }
 .half-width{
     width: 50%;
-    padding-left:10px;
+    padding-left:2%;
 
 }
 .half-width img{
@@ -29,4 +30,8 @@ section{
     font-weight: 700;
     border-radius: 5px;
     
+}
+.top-banner{
+    background-image: url(Newr/images.jpg);
+    background-repeat: no-repeat;
 }
